@@ -4,7 +4,7 @@
   <name>car_navigation</name>
   <version>1.2.0</version>
   <description>Bringup scripts and configurations for the car navigation stack</description>
-  <maintainer email="99Plabsresearch@99labs.com">99P Labs</maintainer>
+  <maintainer email="research@99labs.com">99P Labs</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

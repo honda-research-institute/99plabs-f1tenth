@@ -22,7 +22,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='99P Labs',
-    maintainer_email='99Plabsresearch@99plabs.com',
+    maintainer_email='research@99plabs.com',
     description='An importable library for writing mobile robot applications in python3',
     license='Apache-2.0',
     tests_require=['pytest'],

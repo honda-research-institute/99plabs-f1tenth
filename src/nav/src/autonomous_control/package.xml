@@ -4,7 +4,7 @@
   <name>autonomous_control</name>
   <version>0.0.1</version>
   <description>Autonomous control node that sends to drive command to vehicle actuators</description>
-  <maintainer email="99Pemail@gmail.com">99P Labs</maintainer>
+  <maintainer email="research@99plabs.com">99P Labs</maintainer>
   <license>MIT</license>
 
   <depend>ackermann_msgs</depend>
